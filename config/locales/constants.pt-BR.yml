@@ -1,0 +1,17 @@
+---
+pt-BR:
+  constants:
+    asset:
+      type:
+        ACAO: Ação
+        OPCAO: Opção
+        FII: 'Fundo Imobiliário (FII)'
+        SUBSCRICAO: Subscrição
+    order:
+      type:
+        COMPRA: Compra
+        VENDA: Venda
+        CONVERSAO: Conversão
+        COMPENSACAO: Compensação
+        ISENCAO: Isenção
+        SEMISENCAO: Sem isenção
